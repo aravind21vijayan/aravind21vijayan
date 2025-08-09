@@ -25,4 +25,12 @@
   <img src="https://skillicons.dev/icons?i=git,github,linux" />
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,vscode,pycharm" />
 </div>
+<h2 align="left">📊 GitHub Statistics</h3>
 
+
+<div align="center">
+<p><img width="70%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aravind21vijayan&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="aravind21vijayan" /></p>
+
+
+<p><img width="70%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aravind21vijayan&&theme=tokyonight&hide_border=true&background=00000000" alt="aravind21vijayan" /></p>
+</div>
